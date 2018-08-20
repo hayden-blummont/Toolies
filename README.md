@@ -1,6 +1,8 @@
 <img src='https://nypdecider.files.wordpress.com/2018/04/home-improvement-wilson-tim.jpg?quality=90&strip=all&strip=all'>
 
-#(name to be confirmed)
+This is my final group project that I worked on with Stanley, Reuban and Bradley. The commits show a whole bunch of contributors which doesn't accurately represent how the work was done as the computers at EDA retained other user information and makes it look like the commits are coming from other people. We also often paired together to work on things so it's a bit tricky to see who really did what.
+
+That said, I was really proud of my work on this to get things like SendGrid functioning on the site so members could request gear from each other via email. This was all totally new to all of us and was even mentioned at graduation as something that stood out across the group projects.
 
 A platform to share expensive equipment within trusted groups
 
